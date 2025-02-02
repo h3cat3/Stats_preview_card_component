@@ -1,0 +1,9 @@
+@media (max-width: 1023px) and (min-width: 768px) {
+    .group {
+        display: flex;
+        gap: 60px;
+        padding-top: 40px;
+        align-items: center;
+        justify-content: center;
+    }
+}
